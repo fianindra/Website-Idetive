@@ -1,0 +1,186 @@
+   #pill{
+    color: #CB238D;
+    font-size: 20px;
+    background-color: rgba(210, 172, 209, 0.44);
+    border-radius: 7px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+
+  #bsign{
+      padding-left: 12px;
+      padding-right: 12px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+  }
+
+  #bsign:hover{
+    outline: none;
+    color: white;
+    background-color: #D2ACD1; 
+  }
+
+  #getstart{
+      padding-left: 12px;
+      padding-right: 12px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      color: white;
+      background-color: #5E28F8;
+  }
+
+  #getstart:hover{
+    background-color: black;
+  }
+
+  #play{
+    background-color: #FFC0AB;
+    padding: 10px;
+    text-align: center;
+  }
+
+   #choose1{
+      padding-left: 12px;
+      padding-right: 12px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      color: white;
+      background-color: #F6D37A;
+  }
+
+  #choose1:hover{
+    background-color: black;
+  }
+
+   #choose2{
+      padding-left: 12px;
+      padding-right: 12px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      color: white;
+      background-color: #FFB49C;
+  }
+
+  #choose2:hover{
+    background-color: black;
+  }
+
+   #choose3{
+      padding-left: 12px;
+      padding-right: 12px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      color: white;
+      background-color: #BD9BBC;
+  }
+
+  #choose3:hover{
+    background-color: black;
+  }
+
+  #catchphrase1{
+    color: #6334E9;
+  }
+
+  #catchphrase2{
+    color: #C90D3A;
+  }
+
+  #joinHR{
+    width: 50%;
+	  font-size: 35;
+	  border: 1px solid black;
+	  line-height: 1px;
+	  text-align: center;
+  }
+
+  #joinHR:after{
+    content: "Or you can join with";
+    display: inline;
+  }
+
+  .fb a{
+	text-align: center;
+	float: left;
+	width: 36px;
+	height: 36px;
+	background: #3B5998;
+	border-radius: 100%;
+	margin-right: 7px; /*space between*/
+
+} 
+.logo a i{
+	font-size: 20px;
+	line-height: 38px;
+	color: #ffffff;
+}
+
+.fa-google {
+  background: conic-gradient(from -45deg, #ea4335 110deg, #4285f4 90deg 180deg, #34a853 180deg 270deg, #fbbc05 270deg) 73% 55%/150% 150% no-repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.lgo a i{
+	font-size: 20px;
+	line-height: 38px;
+	color: #ffffff;
+}
+
+.google a{
+  text-align: center;
+  float: left;
+  width: 36px;
+  height: 36px;
+  background: #ffffff;
+  border-radius: 100%;
+  margin-right: 7px; /*space between*/
+}
+
+#blogin{
+  background-color: #7A54E8;
+}
+
+#blogin:hover{
+  background-color: black;
+}
+
+#bregis{
+  background-color: #E8546F;
+}
+
+#bregis:hover{
+  background-color: black;
+}
+
+#lregis{
+  color: #6334E9;
+  font-weight: 600;
+}
+
+#lregis:hover{
+  color: white;
+}
+
+#llogin{
+  color: #C10D2D;
+  font-weight: 600;
+}
+
+#llogin:hover{
+  color: white;
+}
+
+#ukdc{
+  font-weight: 700;
+  text-color: #6334E9;
+}
+
+#ukdc:hover{
+  font-weight: 700;
+  text-color: black;
+}
